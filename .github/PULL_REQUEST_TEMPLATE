@@ -1,0 +1,32 @@
+<!--
+
+Important: DO NOT REPORT SECURITY ISSUES DIRECTLY ON GITHUB.
+  For reporting security issues & contributing security fixes,
+  please email security@example.com instead.
+  You can also review this link for more information:
+  http://www.example.com/security
+
+Please also take a minute to review the contribution guidelines:
+  https://github.com/dnozay/sample-github-project/blob/master/CONTRIBUTING.md
+
+Please fill the template below:
+-->
+
+### Quick summary of the issue fixed
+
+Fixes issue #123.
+Lorem ipsum...
+
+### Quick summary of the fix
+
+Lorem ipsum...
+
+### Testing done
+
+Lorem ipsum...
+
+* test abc
+* test bcd
+* test cde
+
+<!-- Thank you for making this project better! -->
