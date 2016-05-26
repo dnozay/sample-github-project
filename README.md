@@ -1,5 +1,6 @@
 # sample-github-project
 This is a sample project trying to demonstrate the use of some nice features.
+More info: https://help.github.com/categories/administering-a-repository/
 
 # Setting guidelines for contributors
 https://help.github.com/articles/setting-guidelines-for-repository-contributors/
